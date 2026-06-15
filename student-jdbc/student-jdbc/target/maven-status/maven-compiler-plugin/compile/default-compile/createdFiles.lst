@@ -1,0 +1,8 @@
+com\gestion\etudiants\dao\StudentDAO.class
+com\gestion\etudiants\servlet\StudentEditServlet.class
+com\gestion\etudiants\model\Student.class
+com\gestion\etudiants\servlet\StudentListServlet.class
+com\gestion\etudiants\servlet\StudentAddServlet.class
+com\gestion\etudiants\dao\DbConnection.class
+com\gestion\etudiants\servlet\StudentDeleteServlet.class
+com\gestion\etudiants\dao\StudentDAOImpl.class
