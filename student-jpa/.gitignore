@@ -1,0 +1,12 @@
+target/
+*.war
+.settings/
+.classpath
+.project
+.DS_Store
+*.iml
+.idea/
+student-jpa/target/
+student-jpa/.settings/
+student-jpa/.classpath
+student-jpa/.project
